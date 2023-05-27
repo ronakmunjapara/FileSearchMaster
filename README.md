@@ -18,7 +18,7 @@ Whether you are looking for movies, music, ebooks, or software, FileSearchMaster
 
 ## Installation
 
-To use FileSearchMaster, simply visit the website [here](https://www.filesearchmaster.com) and start searching for your desired files.
+To use FileSearchMaster, simply visit the website [here](https://www.filesearchmaster.com](https://ronakmunjapara.github.io/FileSearchMaster) and start searching for your desired files.
 
 ## Contributing
 
