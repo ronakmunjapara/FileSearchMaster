@@ -44,6 +44,6 @@ searchForm.addEventListener('submit', function (event) {
     searchQuery = `intext:"${searchTerm}" ${fileTypes} ${excludeURLs} intitle:"index.of./"`;
     const searchURL = `https://www.google.com/search?q=${searchQuery}`;
     if (searchTerm.length > 0) {
-        window.location.href = searchURL;
+         window.open(searchURL, "_blank");
     }
 });
