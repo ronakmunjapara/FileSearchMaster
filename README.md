@@ -1,4 +1,5 @@
 # FileSearchMaster
+![image](https://github.com/user-attachments/assets/f62a352c-91e2-464a-aa9d-20cd232bae21)
 
 FileSearchMaster is a powerful search engine that helps users find their desired files quickly and easily.
 
